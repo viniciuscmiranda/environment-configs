@@ -1,0 +1,63 @@
+{
+    // Define o tema do VSCode
+    "workbench.colorTheme": "Tomorrow Night Eighties",
+    // Configura tamanho e família da fonte
+    "editor.fontSize": 18,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "explorer.sortOrder": "type",
+
+    "bracket-pair-colorizer-2.colors":[
+        "#f99157",
+        "#ffcc66",
+        "#66cccc",
+        "#cccccc",
+    ],
+
+    "editor.formatOnSave": true,
+
+    "files.associations": {
+        ".sequelizerc": "javascript"
+    },
+    // Aplica um sinal visual na esquerda da linha selecionada
+    "editor.renderLineHighlight": "gutter",
+    // Aumenta a fonte do terminal
+    "terminal.integrated.fontSize": 14,
+    // Define o tema dos ícones na sidebar
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "extensions.ignoreRecommendations": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "breadcrumbs.enabled": true,
+    "git.enableSmartCommit": true,
+    "editor.parameterHints.enabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "typescript.tsserver.log": "verbose",
+    "javascript.suggest.autoImports": false,
+    "typescript.suggest.autoImports": false,
+    "workbench.activityBar.visible": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "editor.formatOnPaste": true,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 60,
+    "explorer.compactFolders": false,
+    "java.configuration.checkProjectSettingsExclusions": false
+}

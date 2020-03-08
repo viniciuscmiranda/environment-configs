@@ -1,0 +1,17 @@
+BoldAsFont=-1
+FontHeight=14
+Font=DejaVu Sans Mono for Powerline
+Scrollbar=none
+Term=xterm-256color
+CursorType=block
+AllowBlinking=yes
+Locale=C
+Charset=UTF-8
+BellType=0
+BellTaskbar=no
+Printer=*
+Language=@
+ThemeFile=base16-tomorrow-night.minttyrc
+Transparency=low
+CursorColour=239,143,146
+OpaqueWhenFocused=no
